@@ -9,3 +9,7 @@ Require OpenSSL vc-package (vcpkg install openssl)
 
 ## C# examples (./CSharp-Signing)
 Using default .Net System.Security.Cryptography
+
+## Further Reading
+
+- [Orthogonal.info](https://orthogonal.info/) — Security engineering, cryptography, and infrastructure guides
